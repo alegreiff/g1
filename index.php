@@ -29,8 +29,8 @@
 			<p>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.  </p>			
 		</article>
 		<figure id="cochecito">
-			<div id="r1"></div>
-			<div id="r2"></div>
+			<div id="r1">&nbsp;</div>
+			<div id="r2">&nbsp;</div>
 			<img src="crojo.jpg" alt="El carro Rojo">
 			<figcaption>
 				<h2>Toyota</h2>
