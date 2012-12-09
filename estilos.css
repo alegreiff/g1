@@ -166,17 +166,17 @@ nav li a:hover {
 div#r1{
   /*background-color: lime;*/
   height: 125px;
-  left: 65px;
+  left: 165px;
   position: relative;
   top: 240px;
   width: 125px;
 }
-
+/*
 div#r2{
-  /*background-color: lime;*/
+  
   height: 125px;
   left: 265px;
   position: relative;
   top: 240px;
   width: 125px;
-}
+}*/
