@@ -32,6 +32,7 @@ function transicion()
 function cambiarColor(datos){
 	var col = datos.currentTarget.id;
 	$("#cochecito img").attr("src", "c" + col + ".jpg")
+	alert (col);
 	$("#textocolor").html("<strong>Color</strong> " + col);
 	
 }
