@@ -9,8 +9,8 @@ $(document).on("ready", inicio);
 function cambiallanta(datos){
 	var ll1 = datos.currentTarget.id;
 	alert(ll1);
-	//$("#r1").load("llanta1.png");
-	$("#r1").html("Car 1");
+	$("#r1").load("llanta1.png");
+	//$("#r1").html("Car 1");
 }
 function transicion()
 {
