@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Nuevo Hachetronco Vandervan</title>
+	<title>Carros de carros</title>
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" href="estilos.css">
 	<script src="prefixfree.min.js"></script>
