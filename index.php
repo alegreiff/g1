@@ -31,6 +31,8 @@
 		<figure id="cochecito">
 			
 			<img src="crojo.jpg" alt="El carro Rojo">
+			<div id="r1">&nbsp;</div>
+			<div id="r2">&nbsp;</div>
 			<figcaption>
 				<h2>Toyota</h2>
 				<ul>
@@ -39,8 +41,7 @@
 					<li><strong>Llantas:</strong> Radiales</li>
 				</ul>
 			</figcaption>
-			<div id="r1">&nbsp;</div>
-			<div id="r2">&nbsp;</div>
+
 		</figure>
 		<section id="personalizacion">
 			<article id="color">
