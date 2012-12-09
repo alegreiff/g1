@@ -166,4 +166,6 @@ nav li a:hover {
 div#r1{
   position: absolute;
   background-color: lime;
+  top: 250px;
+  left: 125px;
 }
