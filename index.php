@@ -15,7 +15,7 @@
 <body>
 	<header>
 		<hgroup>
-			<h1>Toyota</h1>
+			<h1>Carros modernos y flexibles</h1>
 			<h2>Menos combustible, más Node.js</h2>
 
 		</hgroup>
