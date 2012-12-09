@@ -167,16 +167,16 @@ div#r1{
   /*background-color: lime;*/
   height: 125px;
   left: 165px;
-  position: relative;
+  position: fixed;
   top: 240px;
   width: 125px;
 }
-/*
+
 div#r2{
   
   height: 125px;
   left: 265px;
-  position: relative;
+  position: fixed;
   top: 240px;
   width: 125px;
-}*/
+}
