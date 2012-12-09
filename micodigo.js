@@ -9,6 +9,7 @@ $(document).on("ready", inicio);
 function cambiallanta(datos){
 	var ll1 = datos.currentTarget.id;
 	alert(ll1);
+	$("#r1").load("llanta1.png")
 }
 function transicion()
 {
