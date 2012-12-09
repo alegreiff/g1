@@ -163,3 +163,7 @@ nav li a:hover {
   transition: all 0.5s ease;
   width: 100%;
 }
+div#r1{
+  position: absolute;
+  background-color: lime;
+}
