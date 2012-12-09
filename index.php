@@ -6,7 +6,9 @@
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" href="estilos.css">
 	<script src="prefixfree.min.js"></script>
-	<link href='http://fonts.googleapis.com/css?family=Margarine' rel='stylesheet' type='text/css' />
+	
+	<link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css' />
+
 
 </head>
 <body>
