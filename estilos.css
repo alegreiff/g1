@@ -166,7 +166,7 @@ nav li a:hover {
 div#r1{
   /*background-color: lime;*/
   height: 125px;
-  left: 100px;
+  left: 120px;
   position: fixed;
   top: 240px;
   width: 125px;
@@ -175,7 +175,7 @@ div#r1{
 div#r2{
   
   height: 125px;
-  left: 400px;
+  left: 520px;
   position: fixed;
   top: 240px;
   width: 125px;
