@@ -167,7 +167,7 @@ div#r1{
   /*background-color: lime;*/
   height: 125px;
   left: 120px;
-  position: fixed;
+  position: relative;
   top: 240px;
   width: 125px;
 }
@@ -176,7 +176,7 @@ div#r2{
   
   height: 125px;
   left: 520px;
-  position: fixed;
+  position: relative;
   top: 240px;
   width: 125px;
 }
