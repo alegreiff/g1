@@ -52,13 +52,13 @@
 			</article>
 			<article id="llantas">
 				<h2>Llantas</h2>
-				<figure id="llanta1">
+				<figure id="llanta1" class="llanta">
 					<img src="llanta1.png" alt="La llanta 001">
 					<figcaption>
 						Caras
 					</figcaption>
 				</figure>
-				<figure id="llanta2">
+				<figure id="llanta2" class="llanta">
 					<img src="llanta2.png" alt="La llanta 002">
 					<figcaption>
 						Baratas

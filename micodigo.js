@@ -4,7 +4,7 @@ $(document).on("ready", inicio);
 	{
 		
 		$("#personalicite").on("click", transicion);
-		$("article#figure").on("click", cambiallanta);
+		$(".llanta").on("click", cambiallanta);
 	}
 function cambiallanta(datos){
 	var ll1 = datos.currentTarget.id;
