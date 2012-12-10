@@ -10,3 +10,32 @@ h1{
   color: rgba(255,255,255,1);
   text-align: left;
 }
+#encabezado{
+  background: rgba(0,0,0,0.8);
+  border-radius: 0.5em;
+  box-shadow: rgba(255,0,0,0.7) 5px 5px 10px inset;
+  display: inline-block;
+  height: 0;
+  margin: 0 0 6em 2%;
+  padding: 1em 1em 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 1s ease;
+  vertical-align: top;
+  width: 40%;
+}
+
+#introduccion{
+  background: rgba(0,0,0,0.8);
+  border-radius: 0.5em;
+  box-shadow: rgba(255,0,0,0.7) 5px 5px 10px inset;
+  display: inline-block;
+  height: 0;
+  margin: 0 0 6em 2%;
+  padding: 1em 1em 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 1s ease;
+  vertical-align: top;
+  width: 40%
+}
