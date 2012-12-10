@@ -57,11 +57,9 @@ nav li a {
   transition: all 0.6s ease;
 }
 nav li a:hover {
-  background: #00f;
-  color: #000;
+  background: #d23d15;
 }
 a[href$='.pdf'] {
-  background: #d23d15;
   background: transparent url("pdf.png") center left no-repeat;
   background-size: 12px;
   display: inline-block;
