@@ -13,32 +13,25 @@ h1 {
   background: rgba(255,255,255,0.5);
   border-radius: 0.5em;
   box-shadow: rgba(255,0,0,0.7) 5px 5px 10px inset;
-/*display: inline-block;*/
-  margin: 0 0 6em 2%;
+  margin: 0.5em;
   padding: 1em 1em 0;
   transition: all 1s ease;
-/*vertical-align: top;*/
-  width: 80%;
 }
 #encabezado {
   background: rgba(255,255,255,0.5);
   border-radius: 0.5em;
   box-shadow: rgba(255,0,0,0.7) 5px 5px 10px inset;
-/*display: inline-block;*/
-  margin: 0 0 6em 2%;
+  margin: 0.5em;
   padding: 1em 1em 0;
   transition: all 1s ease;
-/*vertical-align: top;*/
-  width: 80%;
 }
 #introduccion {
   background: rgba(255,255,255,0.5);
   border-radius: 0.5em;
   box-shadow: rgba(255,0,0,0.7) 5px 5px 10px inset;
   display: inline-block;
-  margin: 0 0 6em 2%;
+  margin: 0.5em;
   padding: 1em 1em 0;
   transition: all 1s ease;
 /*vertical-align: top;*/
-  width: 80%;
 }
