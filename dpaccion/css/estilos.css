@@ -17,7 +17,7 @@ h1 {
   margin: 0 0 6em 2%;
   padding: 1em 1em 0;
   transition: all 1s ease;
-  vertical-align: top;
+/*vertical-align: top;*/
   width: 80%;
 }
 #encabezado {
@@ -28,7 +28,7 @@ h1 {
   margin: 0 0 6em 2%;
   padding: 1em 1em 0;
   transition: all 1s ease;
-  vertical-align: top;
+/*vertical-align: top;*/
   width: 80%;
 }
 #introduccion {
@@ -39,6 +39,6 @@ h1 {
   margin: 0 0 6em 2%;
   padding: 1em 1em 0;
   transition: all 1s ease;
-  vertical-align: top;
+/*vertical-align: top;*/
   width: 80%;
 }
