@@ -58,7 +58,8 @@ nav li a {
 }
 nav li a:hover {
   background: #d23d15 url("pdf.png") center left no-repeat;
-background
+  background-size: 12px;
+  transform: scale(1.1);
 }
 a[href$='.pdf'] {
   background: #f00 url("pdf.png") center left no-repeat;
