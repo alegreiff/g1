@@ -23,7 +23,7 @@
 	</article>
 	<article id="introduccion">
 		<p>Mediante sentencia proferida el 1° de noviembre de 2012, corregida y aclarada mediante auto de 13 de diciembre de 2012, la SUBSECCIÓN C, SECCIÓN TERCERA DEL SALA DE LO CONTENCIOSO ADMINISTRATIVO DEL CONSEJO DE ESTADO, declaró responsable al Distrito de Bogotá por los daños ocasionados al grupo de personas afectadas por el derrumbe de basuras del Relleno Sanitario de Doña Juana y como consecuencia lo condenó a pagar a título de indemnización de daño moral y afectación de los derechos constitucionales a la intimidad familiar y a la recreación y libre utilización del tiempo libre, una indemnización colectiva a los integrantes del grupo que se constituyeron como parte en el proceso y los que lo hagan con posterioridad a la sentencia.</p> 
-		<p>La sentencia reconoció  como beneficiarios 1.472 personas, que demostraron dentro del proceso haber sido afectados por los hechos que dieron origen a la acción de grupo, las cuales se encuentran relacionadas en los subgrupos I y II, que a continuación se publican.</p>
+		<p>La sentencia reconoció  como beneficiarias a 1.472 personas, que demostraron dentro del proceso haber sido afectadas por los hechos que dieron origen a la acción de grupo, las cuales se encuentran relacionadas en los subgrupos I y II, que a continuación se publican.</p>
 		<p>Ver adjuntos los listados de beneficiarios, la sentencia completa, la aclaración sobre la sentencia y el modelo de adhesión para beneficiarios.</p>
 	</article>
 <article id="anexos">
