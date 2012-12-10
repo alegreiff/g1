@@ -28,7 +28,7 @@
 	</article>
 	<nav>
 		<ul>
-			<li><a href="#" id="">Subgrupo 1</a></li>
+			<li><a href="pdf/a.pdf" id="">Subgrupo 1</a></li>
 			<li><a href="#" id="">Subgrupo 2</a></li>
 			<li><a href="#" id="">Sentencia</a></li>
 			<li><a href="#" id="">Aclaración sentencia</a></li>
