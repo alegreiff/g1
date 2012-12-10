@@ -49,11 +49,11 @@ nav li a {
   text-decoration: none;
 }
 nav li a:hover {
-  background: #d23d15 url("pdf.png") center left no-repeat;
+  background: #fff url("pdf.png") center left no-repeat;
   background-size: 12px;
 }
 a[href$='.pdf'] {
-  background: #f00 url("pdf.png") center left no-repeat;
+  background: rgba(255,255,255,0.8) url("pdf.png") center left no-repeat;
   background-size: 12px;
   padding-left: 20px;
   line-height: 15px;
