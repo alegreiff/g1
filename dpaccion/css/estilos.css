@@ -62,8 +62,8 @@ nav li a:hover {
   transform: scale(1.2) rotate(5deg);
 }
 a[href$='.pdf'] {
-  background: transparent url("pdf.png") center left no-repeat;
   background: #d23d15;
+  background: transparent url("pdf.png") center left no-repeat;
   display: inline-block;
   padding-left: 50px;
   line-height: 15px;

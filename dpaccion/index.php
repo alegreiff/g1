@@ -29,10 +29,10 @@
 	<nav>
 		<ul>
 			<li><a href="pdf/a.pdf" id="">Subgrupo 1</a></li>
-			<li><a href="#" id="">Subgrupo 2</a></li>
-			<li><a href="#" id="">Sentencia</a></li>
-			<li><a href="#" id="">Aclaración sentencia</a></li>
-			<li><a href="#" id="">Modelo solicitud de adhesión al grupo de beneficiarios</a></li>
+			<li><a href="pdf/b.pdf" id="">Subgrupo 2</a></li>
+			<li><a href="pdf/b.pdf" id="">Sentencia</a></li>
+			<li><a href="pdf/b.pdf" id="">Aclaración sentencia</a></li>
+			<li><a href="pdf/b.pdf" id="">Modelo solicitud de adhesión al grupo de beneficiarios</a></li>
 		</ul>
 	</nav>
 </section>
