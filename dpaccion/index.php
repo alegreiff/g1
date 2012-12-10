@@ -26,7 +26,7 @@
 		<p>La sentencia reconoció  como beneficiarios 1.472 personas, que demostraron dentro del proceso haber sido afectados por los hechos que dieron origen a la acción de grupo, las cuales se encuentran relacionadas en los subgrupos I y II, que a continuación se publican.</p>
 		<p>Ver adjuntos los listados de beneficiarios, la sentencia completa, la aclaración sobre la sentencia y el modelo de adhesión para beneficiarios.</p>
 	</article>
-<article>
+<article id="anexos">
 	ANEXOS
 </article>
 </section>
