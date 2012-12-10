@@ -4,8 +4,9 @@
 	<meta charset="UTF-8">
 	<title>Acción de Grupo – Caso Doña Juana</title>
 	<link rel="stylesheet" href="css/estilos.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+
 	<script src="js/prefixfree.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
 <body>
 <header>
