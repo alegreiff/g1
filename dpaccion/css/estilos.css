@@ -7,7 +7,6 @@ body {
 }
 h1 {
   color: #fff;
-  text-align: left;
 }
 #anexos {
   background: rgba(255,255,255,0.5);
@@ -31,6 +30,7 @@ h1 {
   box-shadow: rgba(130,150,220,0.7) 5px 5px 10px;
   margin: 0.5em;
   padding: 1em 1em 0;
+  text-align: justify;
   transition: all 1s ease;
 /*vertical-align: top;*/
 }
