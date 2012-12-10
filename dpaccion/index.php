@@ -28,9 +28,11 @@
 	</article>
 	<nav>
 		<ul>
-			<li><a href="#" id="personalicite">Personalizar</a></li>
-			<li><a href="#">Comprar</a></li>
-			<li><a href="#">Otro</a></li>
+			<li><a href="#" id="">Subgrupo 1</a></li>
+			<li><a href="#" id="">Subgrupo 2</a></li>
+			<li><a href="#" id="">Sentencia</a></li>
+			<li><a href="#" id="">Aclaración sentencia</a></li>
+			<li><a href="#" id="">Modelo solicitud de adhesión al grupo de beneficiarios</a></li>
 		</ul>
 	</nav>
 </section>
